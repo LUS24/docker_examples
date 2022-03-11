@@ -1,0 +1,1 @@
+variable_cualquiera = "Variable cualquiera"
